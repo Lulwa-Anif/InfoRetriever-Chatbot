@@ -1,10 +1,3 @@
-
----------- Forwarded message ---------
-From: Sakshi Joshi <ssjoshi371122@kkwagh.edu.in>
-Date: Mon, Aug 5, 2024 at 8:51 PM
-Subject: 
-To: lulwa anif <luluvaanif53@gmail.com>
-
 import tkinter as tk
 from tkinter import filedialog, Text
 from PyPDF2 import PdfReader
